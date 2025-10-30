@@ -1,0 +1,21 @@
+id,listing,listing_id,name,email,phone,message,user_id
+1,Dental Clinic A,101,Alice Johnson,alice.johnson@example.com,555-1234,Interested in teeth whitening.,1
+2,Dental Clinic B,102,Bob Smith,bob.smith@example.com,555-5678,Need appointment for cleaning.,2
+3,Dental Clinic C,103,Carol Lee,carol.lee@example.com,555-8765,Inquiry about braces.,3
+4,Dental Clinic D,104,David Kim,david.kim@example.com,555-4321,Follow-up on last visit.,4
+5,Dental Clinic E,105,Eva Green,eva.green@example.com,555-6789,Requesting consultation.,5
+6,Dental Clinic F,106,Frank White,frank.white@example.com,555-3456,Question about insurance.,6
+7,Dental Clinic G,107,Grace Hall,grace.hall@example.com,555-7890,Scheduling root canal.,7
+8,Dental Clinic H,108,Henry Adams,henry.adams@example.com,555-2345,Need urgent care.,8
+9,Dental Clinic I,109,Isla Brown,isla.brown@example.com,555-9876,Looking for pediatric dentist.,9
+10,Dental Clinic J,110,Jack Davis,jack.davis@example.com,555-6543,Feedback on service.,10
+11,Dental Clinic K,111,Karen Young,karen.young@example.com,555-3210,Requesting dental records.,11
+12,Dental Clinic L,112,Leo Turner,leo.turner@example.com,555-2109,Interested in implants.,12
+13,Dental Clinic M,113,Mia Scott,mia.scott@example.com,555-1098,Need emergency extraction.,13
+14,Dental Clinic N,114,Noah Reed,noah.reed@example.com,555-0987,Follow-up on x-rays.,14
+15,Dental Clinic O,115,Olivia Price,olivia.price@example.com,555-9870,Question about billing.,15
+16,Dental Clinic P,116,Paul Grant,paul.grant@example.com,555-8760,Scheduling annual checkup.,16
+17,Dental Clinic Q,117,Quinn Bell,quinn.bell@example.com,555-7650,Referral for orthodontist.,17
+18,Dental Clinic R,118,Rachel Fox,rachel.fox@example.com,555-6540,Need second opinion.,18
+19,Dental Clinic S,119,Sam Carter,sam.carter@example.com,555-5430,Interested in veneers.,19
+20,Dental Clinic T,120,Tina Moore,tina.moore@example.com,555-4320,Requesting appointment.,20
